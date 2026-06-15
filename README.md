@@ -1,3 +1,15 @@
+# Data Analytics Project
+
+## Power BI Dashboard
+👉 https://your-powerbi-link
+
+## Python Analysis (Jupyter Notebook)
+👉 collections_analytics_kpi.ipynb
+
+## Description
+This project includes both a Power BI dashboard and Python analysis for insights.
+
+
 Power BI Dashboard 
 1) Arbitration Legal Dashboard
 https://app.powerbi.com/links/WVAhohYsM5?ctid=a2faf8a7-3124-4b2d-ab22-79ec129e01d6&pbi_source=linkShare
